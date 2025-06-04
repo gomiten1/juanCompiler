@@ -1,2 +1,2 @@
 # juanCompiler
-Compiler for compilres class
+Compiler for compilers class
